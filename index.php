@@ -1,5 +1,3 @@
-/* Please delete this comment */
-
 <?php 
 // Defaults
 $SETTINGS["available_languages"] = array("en", "de");
